@@ -32,7 +32,7 @@ class _HomepageState extends State<Homepage> {
               color: Colors.green,
             ),
             Container(
-              color: Colors.brown,
+              color: const Color.fromARGB(255, 143, 73, 47),
             ),
           ],
         ),
